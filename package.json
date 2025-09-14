@@ -17,11 +17,11 @@
     "esm": "^3.2.25",
     "express": "^4.17.1",
     "helmet": "^4.6.0",
-    "mongoose": "^5.12.12"
+    "mongoose": "^8.18.1"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.5.4",
-    "bootstrap": "^4.6.0",
+    "bootstrap": "^5.3.8",
     "eslint": "^7.26.0",
     "eslint-config-standard": "^16.0.2",
     "eslint-plugin-import": "^2.23.2",
